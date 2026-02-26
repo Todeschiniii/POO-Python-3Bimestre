@@ -239,8 +239,8 @@ Projeto desenvolvido para fins educacionais.
 
 ## Contribuidores
 
-1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br><br>
-2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br><br>
-3. <b>Davi Dancuart<b> - GitHub: https://github.com/DaviDancuart<br><br>
+1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
+2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
+3. <b>Davi Dancuart<b> - GitHub: https://github.com/DaviDancuart<br>
 
 Repositório: https://github.com/AEV-autoescola-Virtual/Simulador-de-Carro-teste
