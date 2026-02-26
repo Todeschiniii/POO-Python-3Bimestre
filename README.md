@@ -242,4 +242,4 @@ Projeto desenvolvido para fins educacionais.
 2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
 3. <b>Davi Dancuart<b> - GitHub: https://github.com/DaviDancuart<br>
 
-Repositório: https://github.com/AEV-autoescola-Virtual/Simulador-de-Carro-teste
+Repositório: https://github.com/Todeschiniii/POO-Python-3Bimestre
