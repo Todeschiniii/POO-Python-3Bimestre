@@ -16,7 +16,6 @@
 - [📈 Diferenciais Técnicos](#-diferenciais-técnicos)
 - [⚙️ Como Executar](#️-como-executar)
 - [📊 Melhorias Futuras](#-melhorias-futuras)
-- [👨‍💻 Autor](#-autor)
 - [📄 Licença](#-licença)
 - [👥 Créditos & Contatos](#-créditos--contatos)
 
